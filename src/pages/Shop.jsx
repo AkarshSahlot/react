@@ -4,6 +4,16 @@ import ProductCard from '../componenets/ProductCard';
 const products = [
   { id: 1, name: 'Canvas 12x12', price: 10.99 },
   { id: 2, name: 'Canvas 16x20', price: 15.99 },
+  { id: 2, name: 'Canvas 16x20', price: 15.99 },
+  { id: 2, name: 'Canvas 16x20', price: 15.99 },
+  { id: 2, name: 'Canvas 16x20', price: 15.99 },
+  { id: 2, name: 'Canvas 16x20', price: 15.99 },
+  { id: 2, name: 'Canvas 16x20', price: 15.99 },
+  { id: 2, name: 'Canvas 16x20', price: 15.99 },
+  { id: 2, name: 'Canvas 16x20', price: 15.99 },
+  { id: 2, name: 'Canvas 16x20', price: 15.99 },
+  { id: 2, name: 'Canvas 16x20', price: 15.99 },
+
   // Add more products as needed
 ];
 
